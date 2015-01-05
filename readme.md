@@ -51,8 +51,8 @@ unwittingly ended up here.
 <sub>This icon is licensed as Public Domain</sub>
 
 
-#### **mountain**
-![mountain](http://drostehk.github.io/notebook-assets/mountain.png)
+#### **discussion**
+![discussion](http://drostehk.github.io/notebook-assets/discussion.png)
 
 [Chart](http://thenounproject.com/term/chart/21538/)
 
